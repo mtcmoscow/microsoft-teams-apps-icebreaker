@@ -66,9 +66,9 @@ namespace Icebreaker.Helpers.AdaptiveCards
                 { "teamIntroPart2", teamIntroPart2 },
                 { "teamIntroPart3", teamIntroPart3 },
                 { "welcomeCardImageUrl", welcomeCardImageUrl },
-                { "tourUrl", tourUrl },
+                //{ "tourUrl", tourUrl },
                 { "salutationText", salutationText },
-                { "tourButtonText", tourButtonText }
+                //{ "tourButtonText", tourButtonText }
             };
 
             var cardBody = CardTemplate;
